@@ -28,7 +28,7 @@ You can also re-install your LattePanda if you just want to re-install it.
 
 2. Choose and download the RIGHT LattePanda's official Windows 10 image, which matches your hardware spec.
 
-    * [x86 version for z8300 2GB+32GB](https://drive.google.com/file/d/0B5YJ8UIGswVqeXFsbnRnWi1xXzg/view?usp=sharing&resourcekey=0-UcPEVwu0X5KhUPg5e4tVIQ)
+    * [x86 version for z8300 2GB+32GB] Error 404
 
     * [x64 version for z8300 4GB+64GB](https://drive.google.com/file/d/0B5YJ8UIGswVqSm5qWF91MG1NWnc/view?usp=sharing&resourcekey=0-rMtO5czLZPmNUUixiqzfTQ)
 
